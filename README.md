@@ -23,3 +23,4 @@ Polish UI layout
 Add documentation
 Add test cases
 Fix broken link
+Improve error handling
