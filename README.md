@@ -26,3 +26,4 @@ Fix broken link
 Improve error handling
 Fix typo in README
 Update dependencies
+Clean up codebase
