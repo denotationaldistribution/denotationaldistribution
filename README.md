@@ -28,3 +28,4 @@ Fix typo in README
 Update dependencies
 Clean up codebase
 Fix broken link
+Improve error handling
